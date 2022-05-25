@@ -1,8 +1,3 @@
-C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.csproj.AssemblyReference.cache
-C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.AssemblyInfo.cs
-C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.csproj.CoreCompileInputs.cache
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Data.deps.json
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Data.runtimeconfig.json
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Data.runtimeconfig.dev.json
@@ -10,6 +5,11 @@ C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAsse
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Data.pdb
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Entity.dll
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\bin\Debug\netcoreapp3.1\AlatAssessment.Entity.pdb
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.csproj.CoreCompileInputs.cache
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.csproj.CopyComplete
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.dll
 C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Data\obj\Debug\netcoreapp3.1\AlatAssessment.Data.pdb

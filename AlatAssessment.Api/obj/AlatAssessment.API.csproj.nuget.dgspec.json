@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[11.0.1, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.25, )"
@@ -143,7 +147,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\hp\\Desktop\\Programming-Languages\\WebApp\\AlatAssessmentSolution\\AlatAssessment.Data\\AlatAssessment.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\Programming-Languages\\WebApp\\AlatAssessmentSolution\\AlatAssessment.Data\\AlatAssessment.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -155,6 +163,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
