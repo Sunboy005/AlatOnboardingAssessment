@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\bin\Debug\netcoreapp3.1\AlatAssessment.Entity.deps.json
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\bin\Debug\netcoreapp3.1\AlatAssessment.Entity.dll
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\bin\Debug\netcoreapp3.1\AlatAssessment.Entity.pdb
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.AssemblyInfo.cs
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.dll
+C:\Users\hp\Desktop\Programming-Languages\WebApp\AlatAssessmentSolution\AlatAssessment.Entity\obj\Debug\netcoreapp3.1\AlatAssessment.Entity.pdb

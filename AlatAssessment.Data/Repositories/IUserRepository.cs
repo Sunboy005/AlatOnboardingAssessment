@@ -1,7 +1,7 @@
-﻿using System.Linq;
-using WemaAssessment.Domain.Models;
+﻿using AlatAssessment.Entity.Models;
+using System.Linq;
 
-namespace AlatAssessment.Persistence.Repositories
+namespace AlatAssessment.Data.Repositories
 {
     public interface IUserRepository
     {

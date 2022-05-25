@@ -1,12 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
+﻿using AlatAssessment.Entity.Models;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WemaAssessment.Domain.Models;
 
-namespace AlatAssessment.Persistence.Repositories
+namespace AlatAssessment.Data.Repositories
 {
     public class UserRepository : IUserRepository
     {

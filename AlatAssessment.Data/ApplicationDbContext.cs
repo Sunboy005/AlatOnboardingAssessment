@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
-using WemaAssessment.Domain.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using AlatAssessment.Entity.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-namespace AlatAssessment.Persistence
+namespace AlatAssessment.Data
 {
     public class ApplicationDbContext : IdentityDbContext<Customer>
     {

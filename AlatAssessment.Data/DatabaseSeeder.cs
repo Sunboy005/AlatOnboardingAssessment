@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using AlatAssessment.Entity.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -7,9 +8,8 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using WemaAssessment.Domain.Models;
 
-namespace AlatAssessment.Persistence
+namespace AlatAssessment.Data
 {
     public static class DatabaseSeeder
     {
@@ -33,7 +33,7 @@ namespace AlatAssessment.Persistence
             {
                 //Get Usermanager and rolemanager from IoC container
                 var userManager = app.ApplicationServices.CreateScope()
-                                              .ServiceProvider.GetRequiredService<UserManager<Customer>>();
+                                     .ServiceProvider.GetRequiredService<UserManager<Customer>>();
 
                 //Seed states with local government areas
                 var states = GetSampleData<State>(File.ReadAllText(path + "states.json"));
