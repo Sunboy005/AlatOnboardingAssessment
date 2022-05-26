@@ -13,7 +13,7 @@ namespace AlatAssessment.Data
 {
     public static class DatabaseSeeder
     {
-        private static string path = Path.GetFullPath(@"../WemaAssessment.Persistence/Data/");
+        private static string path = Path.GetFullPath(@"../AlatAssessment.Data/Data/");
         private const string adminPassword = "Secret@123";
 
         public static async Task EnsurePopulated(IApplicationBuilder app)

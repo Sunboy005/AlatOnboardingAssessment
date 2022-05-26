@@ -4,7 +4,7 @@ namespace AlatAssessment.Entity.Models
 {
     public class Customer : IdentityUser
     {
-        public string State { get; set; }
-        public string LGA { get; set; }
+        public string StateId { get; set; }
+        public string LGAId { get; set; }
     }
 }
